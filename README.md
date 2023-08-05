@@ -9,7 +9,10 @@
 <br>
 
 <h2 id="about">Sobre o projeto</h2>
-Neste projeto final do curso de Bootstrap na Alura, tive a oportunidade de expandir meus conhecimentos em diversos aspectos importantes, como breakpoints/responsividade, acessibilidade, a utilização de grid, flexbox e outros elementos do CSS diretamente nas classes do HTML, utilizando o boot. Agora, consigo compreender claramente os pontos positivos e negativos dessa tecnologia que é verdadeiramente facilitadora!  Se você quer ver como ficou o projeto, clique aqui -> 
+Neste projeto final do curso de Bootstrap na Alura, tive a oportunidade de expandir meus conhecimentos em diversos aspectos importantes, como breakpoints/responsividade, acessibilidade, a utilização de grid, flexbox e outros elementos do CSS diretamente nas classes do HTML, utilizando o boot. Agora, consigo compreender claramente os pontos positivos e negativos dessa tecnologia que é verdadeiramente facilitadora!  
+<br>
+<br>
+Se você quer ver como ficou o projeto, clique aqui -> https://jamyleteles.github.io/METEORA.github.io/
 <br>
 
 <h2 id="dif">Dificuldades/Conquistas</h2>
